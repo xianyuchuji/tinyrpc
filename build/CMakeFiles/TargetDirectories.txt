@@ -1,0 +1,3 @@
+/home/zxc/tinyrpc/build/CMakeFiles/rebuild_cache.dir
+/home/zxc/tinyrpc/build/CMakeFiles/edit_cache.dir
+/home/zxc/tinyrpc/build/CMakeFiles/tinyrpc.dir
