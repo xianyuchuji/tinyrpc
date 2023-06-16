@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/zxc/tinyrpc/build",
+  "command": "/usr/bin/g++   -I/home/zxc/tinyrpc/D:/360/libmysql/mysql/include  -g   -std=gnu++14 -o CMakeFiles/tinyrpc.dir/main.cpp.o -c /home/zxc/tinyrpc/main.cpp",
+  "file": "/home/zxc/tinyrpc/main.cpp"
+},
+{
+  "directory": "/home/zxc/tinyrpc/build",
+  "command": "/usr/bin/g++   -I/home/zxc/tinyrpc/D:/360/libmysql/mysql/include  -g   -std=gnu++14 -o CMakeFiles/tinyrpc.dir/comm/mysqlinstance.cpp.o -c /home/zxc/tinyrpc/comm/mysqlinstance.cpp",
+  "file": "/home/zxc/tinyrpc/comm/mysqlinstance.cpp"
+},
+{
+  "directory": "/home/zxc/tinyrpc/build",
+  "command": "/usr/bin/g++   -I/home/zxc/tinyrpc/D:/360/libmysql/mysql/include  -g   -std=gnu++14 -o CMakeFiles/tinyrpc.dir/net/netaddress.cpp.o -c /home/zxc/tinyrpc/net/netaddress.cpp",
+  "file": "/home/zxc/tinyrpc/net/netaddress.cpp"
+},
+{
+  "directory": "/home/zxc/tinyrpc/build",
+  "command": "/usr/bin/g++   -I/home/zxc/tinyrpc/D:/360/libmysql/mysql/include  -g   -std=gnu++14 -o CMakeFiles/tinyrpc.dir/comm/test.cpp.o -c /home/zxc/tinyrpc/comm/test.cpp",
+  "file": "/home/zxc/tinyrpc/comm/test.cpp"
+},
+{
+  "directory": "/home/zxc/tinyrpc/build",
+  "command": "/usr/bin/g++   -I/home/zxc/tinyrpc/D:/360/libmysql/mysql/include  -g   -std=gnu++14 -o CMakeFiles/tinyrpc.dir/Coroutine/coroutine.cpp.o -c /home/zxc/tinyrpc/Coroutine/coroutine.cpp",
+  "file": "/home/zxc/tinyrpc/Coroutine/coroutine.cpp"
+},
+{
+  "directory": "/home/zxc/tinyrpc/build",
+  "command": "/usr/bin/g++   -I/home/zxc/tinyrpc/D:/360/libmysql/mysql/include  -g   -std=gnu++14 -o CMakeFiles/tinyrpc.dir/comm/mutex.cpp.o -c /home/zxc/tinyrpc/comm/mutex.cpp",
+  "file": "/home/zxc/tinyrpc/comm/mutex.cpp"
+},
+{
+  "directory": "/home/zxc/tinyrpc/build",
+  "command": "/usr/bin/g++   -I/home/zxc/tinyrpc/D:/360/libmysql/mysql/include  -g   -std=gnu++14 -o CMakeFiles/tinyrpc.dir/comm/fd_event.cpp.o -c /home/zxc/tinyrpc/comm/fd_event.cpp",
+  "file": "/home/zxc/tinyrpc/comm/fd_event.cpp"
+},
+{
+  "directory": "/home/zxc/tinyrpc/build",
+  "command": "/usr/bin/g++   -I/home/zxc/tinyrpc/D:/360/libmysql/mysql/include  -g   -std=gnu++14 -o CMakeFiles/tinyrpc.dir/comm/reactor.cpp.o -c /home/zxc/tinyrpc/comm/reactor.cpp",
+  "file": "/home/zxc/tinyrpc/comm/reactor.cpp"
+},
+{
+  "directory": "/home/zxc/tinyrpc/build",
+  "command": "/usr/bin/g++   -I/home/zxc/tinyrpc/D:/360/libmysql/mysql/include  -g   -std=gnu++14 -o CMakeFiles/tinyrpc.dir/Coroutine/coroutine_hook.cpp.o -c /home/zxc/tinyrpc/Coroutine/coroutine_hook.cpp",
+  "file": "/home/zxc/tinyrpc/Coroutine/coroutine_hook.cpp"
+}
+]

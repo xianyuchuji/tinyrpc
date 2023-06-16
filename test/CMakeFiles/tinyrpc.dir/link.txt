@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/tinyrpc.dir/home/zxc/tinyrpc/comm/config.cc.o CMakeFiles/tinyrpc.dir/test_config.cc.o  -o tinyrpc   -L/usr/include/tinyxml/build  -Wl,-rpath,/usr/include/tinyxml/build -Wl,-Bstatic -ltinyxml2 -Wl,-Bdynamic 

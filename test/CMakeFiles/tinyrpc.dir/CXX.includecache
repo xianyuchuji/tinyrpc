@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zxc/tinyrpc/comm/config.cc
+config.h
+/home/zxc/tinyrpc/comm/config.h
+algorithm
+-
+
+/home/zxc/tinyrpc/comm/config.h
+tinyxml/tinyxml2.h
+/home/zxc/tinyrpc/comm/tinyxml/tinyxml2.h
+string
+-
+memory
+-
+
+/home/zxc/tinyrpc/test/test_config.cc
+../comm/config.h
+/home/zxc/tinyrpc/comm/config.h
+

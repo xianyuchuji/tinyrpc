@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="tinyrpc" targetName="tinyrpc" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b833718-c69d-4c79-9a32-000b7830f27f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NdijXEQQga8Et6AqYP3GLc2UjN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\untitled9\cmake-build-debug" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\untitled9\utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="tinyrpc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tinyrpc" TARGET_NAME="tinyrpc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tinyrpc" RUN_TARGET_NAME="tinyrpc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b833718-c69d-4c79-9a32-000b7830f27f" name="Default Changelist" comment="" />
+      <created>1680000494887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680000494887</updated>
+      <workItem from="1680000496905" duration="1465000" />
+      <workItem from="1680053039713" duration="5132000" />
+      <workItem from="1680198059093" duration="1943000" />
+      <workItem from="1681025556183" duration="238000" />
+      <workItem from="1681025805930" duration="641000" />
+      <workItem from="1681122851335" duration="2440000" />
+      <workItem from="1681129779693" duration="1335000" />
+      <workItem from="1681140285722" duration="1537000" />
+      <workItem from="1681142156786" duration="1268000" />
+      <workItem from="1681453057258" duration="26000" />
+      <workItem from="1681453092187" duration="3902000" />
+      <workItem from="1681631734323" duration="1074000" />
+      <workItem from="1681793594796" duration="1327000" />
+      <workItem from="1682637980506" duration="14306000" />
+      <workItem from="1682729821688" duration="39832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="868" y="172" key="#com.intellij.ide.util.MemberChooser" timestamp="1682935101614">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="868" y="172" key="#com.intellij.ide.util.MemberChooser/0.0.1440.852@0.0.1440.852" timestamp="1682935101614" />
+    <state x="804" y="318" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1680054207482">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="804" y="318" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.852@0.0.1440.852" timestamp="1680054207482" />
+    <state x="608" y="252" key="FileChooserDialogImpl" timestamp="1682729810648">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="608" y="252" key="FileChooserDialogImpl/0.0.1440.852@0.0.1440.852" timestamp="1682729810648" />
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom" timestamp="1681637747518">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.0.1440.852@0.0.1440.852" timestamp="1681637747518" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center" timestamp="1681637747518">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.center/0.0.1440.852@0.0.1440.852" timestamp="1681637747518" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left" timestamp="1681637747518">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.left/0.0.1440.852@0.0.1440.852" timestamp="1681637747518" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right" timestamp="1681637747518">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.right/0.0.1440.852@0.0.1440.852" timestamp="1681637747518" />
+    <state x="357" y="84" width="981" height="706" key="SettingsEditor" timestamp="1682734167607">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="357" y="84" width="981" height="706" key="SettingsEditor/0.0.1440.852@0.0.1440.852" timestamp="1682734167607" />
+    <state x="739" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1682639709824">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="739" y="267" key="com.intellij.ide.util.TipDialog/0.0.1440.852@0.0.1440.852" timestamp="1682639709824" />
+    <state x="638" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1681130452812">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="638" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.852@0.0.1440.852" timestamp="1681130452812" />
+    <state x="711" y="176" width="672" height="678" key="search.everywhere.popup" timestamp="1682916071473">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="711" y="176" width="672" height="678" key="search.everywhere.popup/0.0.1440.852@0.0.1440.852" timestamp="1682916071473" />
+  </component>
+</project>

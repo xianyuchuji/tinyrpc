@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/tinyrpc/utils/stringutil.h
+string
+-
+map
+-
+vector
+-
+
+/cygdrive/d/tinyrpc/utils/test.cpp
+stringutil.h
+/cygdrive/d/tinyrpc/utils/stringutil.h
+map
+-
+string
+-
+iostream
+-
+
