@@ -67,8 +67,7 @@ void createNewLogFile(){
     char* filepath=gettimeofday();
     strcat(filepath,".log");
     strcpy(g_logfilepath,filepath);
-<<<<<<< HEAD
-=======
+
 }
 
 void Logger::log(LogLevel::Level level){
@@ -89,5 +88,5 @@ void Logger::log(LogLevel::Level level){
             warnLog();
             break;
     }
->>>>>>> parent of a6a93f4... 日志模块添加logappender
+
 }
