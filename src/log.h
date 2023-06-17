@@ -48,7 +48,8 @@ public:
         return logger;
     }
     std::ostream& getSS(){return m_ss;}
-    void log(LogLevel::Level level);
+    void push(LogEvent::ptr event);
+    void log();
 private:
     Logger(LogLevel::Level level,LogEvent::ptr event);
     void debugLog();
