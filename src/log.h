@@ -81,7 +81,7 @@ public:
     void log();
 
 private:
-
+    int lines;
 };
 
 
