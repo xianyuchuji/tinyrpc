@@ -30,7 +30,7 @@ LogLevel::Level fromString(const char* level){
 }
 
 void LogEvent::log(){
-    m_logger->log();
+    logger->log();
 }
 
 std::ostream& Logger::getSS(){
@@ -58,7 +58,6 @@ void* logEventProc(void* args){
             }
         }    
     }
-
 }
 
 
@@ -67,4 +66,24 @@ void createNewLogFile(){
     char* filepath=gettimeofday();
     strcat(filepath,".log");
     strcpy(g_logfilepath,filepath);
+}
+
+void Logger::log(LogLevel::Level level){
+    switch(level){
+        case LogLevel::DEBUG:
+            debugLog();
+            break;
+        case LogLevel::ERROR:
+            errorLog();
+            break;
+        case LogLevel::FATAL:
+            fatalLog();
+            break;
+        case LogLevel::INFO:
+            infoLog();
+            break;
+        case LogLevel::WARN:
+            warnLog();
+            break;
+    }
 }

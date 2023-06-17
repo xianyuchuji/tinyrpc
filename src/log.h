@@ -48,9 +48,14 @@ public:
         return logger;
     }
     std::ostream& getSS(){return m_ss;}
+    void log(LogLevel::Level level);
 private:
     Logger(LogLevel::Level level,LogEvent::ptr event);
-    
+    void debugLog();
+    void errorLog();
+    void infoLog();
+    void warnLog();
+    void fatalLog();
 private:
     static Logger* logger;
     //日志等级
@@ -66,7 +71,19 @@ private:
     std::queue<LogEvent::ptr>m_logEvents;
     pthread_cond_t m_cond;
     pthread_mutex_t m_mutex;
+    
 };
+
+class LogAppender{
+public:
+    LogAppender();
+    ~LogAppender();
+    void log();
+
+private:
+
+};
+
 
 static Logger* logger=nullptr;
 
