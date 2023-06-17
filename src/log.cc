@@ -77,7 +77,7 @@ void Logger::log(LogLevel::Level level){
             errorLog();
             break;
         case LogLevel::FATAL:
-            fatalLog(11);
+            fatalLog(111);
             break;
         case LogLevel::INFO:
             infoLog();

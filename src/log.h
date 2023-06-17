@@ -91,7 +91,7 @@ void initLogModule();
 
 static void* logEventProc(void* args);
 
-static void createNewLogFile();
+static void createNewLogFile(1);
 
 static Logger* AsyncLogger;
 #endif
