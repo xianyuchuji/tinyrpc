@@ -8,7 +8,7 @@
 #include<queue>
 #include<memory>
 
-#define LogOut(level,) 
+
 
 
 class LogLevel{
@@ -49,7 +49,7 @@ public:
     }
     std::ostream& getSS(){return m_ss;}
     void push(LogEvent::ptr event);
-    void log();
+    void log(LogLevel::Level level);
 private:
     Logger(LogLevel::Level level,LogEvent::ptr event);
     void debugLog();
@@ -92,7 +92,7 @@ void initLogModule();
 
 static void* logEventProc(void* args);
 
-static void createNewLogFile(1);
+static void createNewLogFile();
 
 static Logger* AsyncLogger;
 #endif

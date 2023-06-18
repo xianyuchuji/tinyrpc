@@ -1,4 +1,4 @@
-#include"comm/config.h"
-#include"comm/log.h"
+#include"config.h"
+#include"log.h"
 
 

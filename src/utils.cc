@@ -11,6 +11,7 @@ char* gettimeofday(){
     std::string month=std::to_string(ptr->tm_mon);
     std::string year=std::to_string(ptr->tm_year);
     char time[50]={0};
+    
     strcpy(time,(year+month+day+hour+minute).c_str());
     return time;
 }
